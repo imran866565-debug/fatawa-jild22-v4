@@ -1,0 +1,142 @@
+{
+ "chunks": [
+  {
+   "chunk": "01",
+   "description": "Jild 22, pp. 5-154",
+   "end_page": 154,
+   "file": "jild-22-chunk-01.json",
+   "items": 20,
+   "pages_present": 50,
+   "start_page": 5,
+   "status": "done",
+   "verified": "2026-11-19 ~01:55 PKT — coordinator verified: 20 items, pp.5-154, ids/titles/pages == v3, vol 42, 1 empty sawal, 0 empty jawab, notes 30 vs v3 29, glosses 251x 'کا مطلب' + 15x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. Holds pesh-lafz (sawal empty by design). pp.5-154. SHA 17672ace…."
+  },
+  {
+   "chunk": "02",
+   "description": "Jild 22, pp. 155-200",
+   "end_page": 200,
+   "file": "jild-22-chunk-02.json",
+   "items": 29,
+   "pages_present": 46,
+   "start_page": 155,
+   "status": "done",
+   "verified": "2026-11-19 ~01:55 PKT — coordinator verified: 29 items, pp.155-200, ids/titles/pages == v3, vol 42, 0 empty sawal, 0 empty jawab, notes 32 vs v3 31, glosses 184x 'کا مطلب' + 32x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. pp.155-200. SHA 518ec4c5…."
+  },
+  {
+   "chunk": "03",
+   "description": "Jild 22, pp. 201-250",
+   "end_page": 250,
+   "file": "jild-22-chunk-03.json",
+   "items": 41,
+   "pages_present": 50,
+   "start_page": 201,
+   "status": "done",
+   "verified": "2026-11-19 ~01:55 PKT — coordinator verified: 41 items, pp.201-250, ids/titles/pages == v3, vol 42, 0 empty sawal, 0 empty jawab, notes 45 vs v3 45, glosses 279x 'کا مطلب' + 2x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. pp.201-250. SHA e7e3bae0…."
+  },
+  {
+   "chunk": "04",
+   "description": "Jild 22, pp. 251-300",
+   "end_page": 300,
+   "file": "jild-22-chunk-04.json",
+   "items": 3,
+   "pages_present": 50,
+   "start_page": 251,
+   "status": "done",
+   "verified": "2026-11-19 ~01:55 PKT — coordinator verified: 3 items, pp.251-300, ids/titles/pages == v3, vol 42, 0 empty sawal, 0 empty jawab, notes 11 vs v3 11, glosses 131x 'کا مطلب' + 3x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. Holds the masala-123 head [269-300] (sawal 223ch, jawab 43,515ch); its jawab ends with the bracketed split-meta sentence '[یہ مسئلہ صفحہ ۳۰۰ پر ختم نہیں ہوا؛ باقی حصہ اگلے چنک میں آئے گا۔]' — verified verbatim in the v3 merged file, kept as historical. SHA 44f45858…."
+  },
+  {
+   "chunk": "05",
+   "description": "Jild 22, pp. 301-339",
+   "end_page": 339,
+   "file": "jild-22-chunk-05.json",
+   "items": 13,
+   "pages_present": 39,
+   "start_page": 301,
+   "status": "done",
+   "verified": "2026-11-19 ~01:55 PKT — coordinator verified: 13 items, pp.301-339, ids/titles/pages == v3, vol 42, 1 empty sawal, 0 empty jawab, notes 7 vs v3 6, glosses 181x 'کا مطلب' + 2x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. Holds the safaih-allujayn tail [301-314] (sawal empty, jawab 22,660ch); its jawab starts with the bridge sentence 'یہ حصہ رسالے کے اسی سلسلے کی کڑی ہے…' — verified in v3, kept as historical. Notes 7 vs v3 6 (+1). SHA 40ce2762…."
+  },
+  {
+   "chunk": "06",
+   "description": "Jild 22, pp. 341-390",
+   "end_page": 390,
+   "file": "jild-22-chunk-06.json",
+   "items": 12,
+   "pages_present": 50,
+   "start_page": 341,
+   "status": "done",
+   "verified": "2026-11-19 ~01:55 PKT — coordinator verified: 12 items, pp.341-390, ids/titles/pages == v3, vol 42, 0 empty sawal, 0 empty jawab, notes 16 vs v3 16, glosses 191x 'کا مطلب' + 10x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. Holds the masala-152 head [382-390]. pp.341-390. SHA 6071a329…."
+  },
+  {
+   "chunk": "07",
+   "description": "Jild 22, pp. 391-440",
+   "end_page": 440,
+   "file": "jild-22-chunk-07.json",
+   "items": 21,
+   "pages_present": 49,
+   "start_page": 391,
+   "status": "done",
+   "verified": "2026-11-19 ~01:55 PKT — coordinator verified: 21 items, pp.391-440, ids/titles/pages == v3, vol 42, 1 empty sawal, 0 empty jawab, notes 25 vs v3 25, glosses 357x 'کا مطلب' + 5x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. Holds the masala-152 tail [391-400] (sawal empty) and the masala-186 head [425-440]. PUA-garbled Quran p.399 flagged in notes only, never reconstructed. SHA 8c0cea5a…."
+  },
+  {
+   "chunk": "08",
+   "description": "Jild 22, pp. 441-490",
+   "end_page": 490,
+   "file": "jild-22-chunk-08.json",
+   "items": 1,
+   "pages_present": 50,
+   "start_page": 441,
+   "status": "done",
+   "verified": "2026-11-19 ~01:55 PKT — coordinator verified: 1 items, pp.441-490, ids/titles/pages == v3, vol 42, 1 empty sawal, 0 empty jawab, notes 9 vs v3 6, glosses 340x 'کا مطلب' + 4x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. ONE item only: masala-186 part 2 [441-490] (sawal empty, jawab 63,586ch). Notes 9 vs v3 6 (+3). SHA f537253b…."
+  },
+  {
+   "chunk": "09",
+   "description": "Jild 22, pp. 491-540",
+   "end_page": 540,
+   "file": "jild-22-chunk-09.json",
+   "items": 1,
+   "pages_present": 50,
+   "start_page": 491,
+   "status": "done",
+   "verified": "2026-11-19 ~01:55 PKT — coordinator verified: 1 items, pp.491-540, ids/titles/pages == v3, vol 42, 1 empty sawal, 0 empty jawab, notes 7 vs v3 6, glosses 129x 'کا مطلب' + 3x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. ONE item only: masala-186 part 3 [491-540] (sawal empty, jawab 72,848ch). Notes 7 vs v3 6 (+1). SHA ff42e823…."
+  },
+  {
+   "chunk": "10",
+   "description": "Jild 22, pp. 541-590",
+   "end_page": 590,
+   "file": "jild-22-chunk-10.json",
+   "items": 20,
+   "pages_present": 49,
+   "start_page": 541,
+   "status": "done",
+   "verified": "2026-11-19 ~01:55 PKT — coordinator verified: 20 items, pp.541-590, ids/titles/pages == v3, vol 42, 1 empty sawal, 0 empty jawab, notes 17 vs v3 15, glosses 521x 'کا مطلب' + 4x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. Holds the hawashi-zubda tail [541-542] (sawal empty, jawab 3,280ch) and the masala-205-208 head [580-590]. PUA-garbled Quran p.561 flagged in notes only. SHA 35f0394f…."
+  },
+  {
+   "chunk": "11",
+   "description": "Jild 22, pp. 591-640",
+   "end_page": 640,
+   "file": "jild-22-chunk-11.json",
+   "items": 11,
+   "pages_present": 50,
+   "start_page": 591,
+   "status": "done",
+   "verified": "2026-11-19 ~01:55 PKT — coordinator verified: 11 items, pp.591-640, ids/titles/pages == v3, vol 42, 1 empty sawal, 0 empty jawab, notes 20 vs v3 18, glosses 213x 'کا مطلب' + 4x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. Holds the masala-205-208 tail [591-592] (sawal empty) and the masala-227 head [607-640]. PUA-garbled Quran pp.601, 618, 620 flagged in notes only. SHA 65b60fb6…."
+  },
+  {
+   "chunk": "12",
+   "description": "Jild 22, pp. 641-692",
+   "end_page": 692,
+   "file": "jild-22-chunk-12.json",
+   "items": 15,
+   "pages_present": 52,
+   "start_page": 641,
+   "status": "done",
+   "verified": "2026-11-19 ~01:55 PKT — coordinator verified: 15 items, pp.641-692, ids/titles/pages == v3, vol 42, 2 empty sawal, 0 empty jawab, notes 19 vs v3 19, glosses 168x 'کا مطلب' + 3x 'کہتے ہیں', A1=0 real hits, A2 harsh terms kept per coordinator audit. No fix-ups recorded; clean re-write. Holds the masala-227 tail [641-677] (sawal empty) — the risala closes p.677 with its count (18 آیتیں، 72 حدیثیں، 60 ارشادات علماء = 150 نصوص, Friday غرہ رجب 1305ھ) — and the khatima (sawal empty by design). pp.641-692. SHA 0a4a1595…."
+  }
+ ],
+ "total_pages_present": 585,
+ "total_unique_pages": 585,
+ "volume": "Jild 22",
+ "volume_ids": [
+  42
+ ]
+}
